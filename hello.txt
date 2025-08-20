@@ -12,5 +12,5 @@ hello atguigu! hello git!
 hello atguigu! hello git!
 hello atguigu! hello git!
 hello atguigu! hello git!
-qiongzhi
-huayu
+qiongzhi 
+huayu hot-fix test
